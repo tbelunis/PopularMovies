@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pref_sort_type">Sort Order</string>
+    <string name="pref_sort_type_title">Choose a sort order</string>
+    <string name="default_sort_pref">pref_highest_rating</string>
+</resources>
